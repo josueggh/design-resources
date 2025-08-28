@@ -58,6 +58,7 @@
 | [US Web Design System](https://designsystem.digital.gov/)                                        | U.S. federal government design system    | ✅     |
 | [Mozilla Protocol](https://protocol.mozilla.org/)                                                | Mozilla’s component library              | ❌     |
 | [Base Web (Uber)](https://baseweb.design/)                                                       | Uber's React-based design system         | ❌     |
+| [Skoda]([https://baseweb.design/](https://flow.skoda-brand.com/d/6aQMrmD6PhWL))                  | Skoda Design System (Autos)              | ❌     |
 
 ## Component Libraries
 
