@@ -15,6 +15,7 @@
 | [Google](https://design.google/)                 | Google design stories & insights |
 | [Microsoft](https://medium.com/microsoft-design) | Microsoft design on Medium       |
 | [Atlassian](https://atlassian.design/blog)       | Atlassian design blog            |
+| [Google Driving](https://developers.google.com/cars/design)  | Design for Driving   |
 
 ## Design systems
 
@@ -59,6 +60,12 @@
 | [Mozilla Protocol](https://protocol.mozilla.org/)                                                | Mozilla’s component library              | ❌     |
 | [Base Web (Uber)](https://baseweb.design/)                                                       | Uber's React-based design system         | ❌     |
 | [Skoda](https://flow.skoda-brand.com/d/6aQMrmD6PhWL)                                             | Skoda Design System (Autos)              | ❌     |
+| [Porsche](https://designsystem.porsche.com/v3/)                                                  | Porsche Design System                    | ✅     |
+| [Audi](https://styleguide.audio.com)                                                             | Audio Design System                      | ❌     |
+| [Volvo](https://design.volvocars.com)                                                            | Volvo Design System                      | ❌     |
+| [Dimo](https://dimo.org/news/designing-with-dimo)                                                | Dimo Design System                       | ✅     |
+
+
 
 ## Component Libraries
 
